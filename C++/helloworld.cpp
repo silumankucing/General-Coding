@@ -1,5 +1,3 @@
-// code by kurooo
-
 #include <iostream>
 
 int main() {
